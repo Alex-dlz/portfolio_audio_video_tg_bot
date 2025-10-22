@@ -13,8 +13,7 @@
 
 1. Сlon repository:
 ```bash
-git clone https://github.com/твой-username/название-репозитория.git
-cd название-репозитория
+git clone https://github.com/Alex-dlz/portfolio_audio_video_tg_bot
 
 
 2. Download dependencies
